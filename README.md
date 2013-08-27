@@ -1,4 +1,0 @@
-MakersAcademy-Workshops
-=======================
-
-Exercises
